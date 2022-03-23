@@ -33,5 +33,5 @@
             | "João" | "Torres"  | "Brasil" | "Benjamin Constant" | "Itajubá" | ""          | "(35)333333333" | "emailValido@valid.com.br" |
             | "João" | "Torres"  | "Brasil" | "Benjamin Constant" | "Itajubá" | "37500-000" | ""              | "emailValido@valid.com.br" |
             | "João" | "Torres"  | "Brasil" | "Benjamin Constant" | "Itajubá" | "37500-000" | "(35)333333333" | ""                         |
-Então o sistema exibirá uma mensagem de alerta
-E não terei sucesso no cadastro
+            Então o sistema exibirá uma mensagem de alerta
+            E não terei sucesso no cadastro
